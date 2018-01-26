@@ -10,8 +10,9 @@ Le projet est une TodoList	en Full-Stack. Une partie front-end avec du ReactJs q
 <br>
 <b>Installation</b>
 <br>
-Pour installer le projet, il suffit de faire un « npm install » et enfin de lancer chaque dossier (le front et le back) avec « npm run dev ».
+Pour installer le projet, il suffit de faire un « npm install » et enfin de lancer chaque dossier (le front: "frontReact" et le back: "api todo") avec « npm run dev ».
 Toutes les bibliothèques ont été installées avec un « npm install bibliotheque –S –save ».
+Pour faire un export de la base de données il faut faire un « npm run export name=export » dans le dossier du back ("api todo").
 <br><br>
 <b>Process of use</b>
 <br>
