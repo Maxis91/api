@@ -35,6 +35,6 @@ Pour voir les tests il faut arrêter le serveur s’il est démarré et faire un
 <br>
 Mehmet AKSOY : Tech Lead ReactJs
 Maxime RIESCO : Tech Lead NodeJs
-Baltazar TORRES : Test ReactJs et NodeJs
+Baltazar TORRES : ReactJs et Test NodeJs
 Volkan AKYEL : ReactJs
 Thierry SUY : Test NodeJs
