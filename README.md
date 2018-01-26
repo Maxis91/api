@@ -14,6 +14,7 @@ Pour installer le projet, il suffit de faire un « npm install » et enfin de la
 Toutes les bibliothèques ont été installées avec un « npm install bibliotheque –S –save ».
 <br><br>
 <b>Process of use</b>
+<br>
 On arrive sur la page des tâches à faire (ToDo List). Il y a déjà une liste en locale (d’initialisation non entrée dans la base). Il suffit de cliquer sur le bouton « Realod » pour accéder aux tâches présentes dans la base de données. Dans cette liste il y a la possibilité de supprimer les tâches à l’évènement clique « Delete » qui rafraichira aussi la page. 
 Afin de créer sa propre tâche il faut se rendre « Create ToDo ». Il suffit de rentrer sa tâche et de cliquer sur le bouton « Submit », un message s’affichera « Tâche créée » si la tâche est bien prise en compte sinon un message d’erreur « Failed ! » sera affiché.
 <br>
